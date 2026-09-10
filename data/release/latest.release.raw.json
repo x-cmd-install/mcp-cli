@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 256,
       "digest": "sha256:6b1c8709075d734b8c1355924c30c0ecf47c81af4c88635b022b479f6f6824cd",
-      "download_count": 5561,
+      "download_count": 5572,
       "created_at": "2026-01-23T13:56:43Z",
       "updated_at": "2026-01-23T13:56:44Z",
       "browser_download_url": "https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 57859200,
       "digest": "sha256:be991df0a125e1cf9a022fe6ffce236605522fd1382435ce58ffdf9aba6642f2",
-      "download_count": 44865,
+      "download_count": 45225,
       "created_at": "2026-01-23T13:56:43Z",
       "updated_at": "2026-01-23T13:56:45Z",
       "browser_download_url": "https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/mcp-cli-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 63708160,
       "digest": "sha256:f0e890a666268335005bbba199253ff8f6e6afae76d0adf34fbda708b26acc2e",
-      "download_count": 43041,
+      "download_count": 43398,
       "created_at": "2026-01-23T13:56:43Z",
       "updated_at": "2026-01-23T13:56:45Z",
       "browser_download_url": "https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/mcp-cli-darwin-x64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 101135752,
       "digest": "sha256:76772f290edaa856cbec967d12c33cb9bf49cff014f55a30d04245cf8970817c",
-      "download_count": 32804,
+      "download_count": 33174,
       "created_at": "2026-01-23T13:56:43Z",
       "updated_at": "2026-01-23T13:56:47Z",
       "browser_download_url": "https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/mcp-cli-linux-x64"
