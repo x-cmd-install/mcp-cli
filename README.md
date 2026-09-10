@@ -22,11 +22,19 @@ x install mcp-cli
 - **Latest**: `v0.3.0` (2026-01-23)
 - **Last commit**: 2026-02-05
 - **Assets in release**: 4
-- **Published**: 2026-01-23T13:56:47Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/checksums.txt) | 256 B | `other` |
+| [mcp-cli-darwin-arm64](https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/mcp-cli-darwin-arm64) | 55.2 MiB | `native/darwin/arm64` |
+| [mcp-cli-darwin-x64](https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/mcp-cli-darwin-x64) | 60.8 MiB | `native/darwin/x64` |
+| [mcp-cli-linux-x64](https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/mcp-cli-linux-x64) | 96.5 MiB | `other` |
 
 ## Popularity
 
-- **Stars**: 1,272 · **Forks**: 164 · **Open issues**: 20 · **Contributors**: 2
+- **Stars**: 1,273 · **Forks**: 164 · **Open issues**: 20 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -56,8 +64,8 @@ Total: **4,552** lines of code across **30** files in the top 5 languages.
 Install metadata for mcp-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mcp-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/mcp-cli.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/mcp-cli.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:13:49Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:41:48Z._

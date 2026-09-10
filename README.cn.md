@@ -4,7 +4,7 @@
 
 Lighweight CLI to interact with MCP servers
 
-![mcp-cli](https://repo.x-cmd.io/mcp-cli.svg)
+![mcp-cli](https://repo.x-cmd.io/mcp-cli.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,19 @@ x install mcp-cli
 - **最新版本**: `v0.3.0` (2026-01-23)
 - **最近提交**: 2026-02-05
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-01-23T13:56:47Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/checksums.txt) | 256 B | `other` |
+| [mcp-cli-darwin-arm64](https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/mcp-cli-darwin-arm64) | 55.2 MiB | `native/darwin/arm64` |
+| [mcp-cli-darwin-x64](https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/mcp-cli-darwin-x64) | 60.8 MiB | `native/darwin/x64` |
+| [mcp-cli-linux-x64](https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/mcp-cli-linux-x64) | 96.5 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 1,272 · **Fork**: 164 · **开放 issue**: 20 · **贡献者**: 2
+- **Star**: 1,273 · **Fork**: 164 · **开放 issue**: 20 · **贡献者**: 2
 
 ## 累计统计
 
@@ -60,4 +68,4 @@ mcp-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:13:49Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:41:48Z._
