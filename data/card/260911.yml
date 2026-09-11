@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.3.0"
   latestRelease: "v0.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:09:30Z
+  collectedAt: 2026-09-11T19:53:34Z
 timeline:
   created: 2026-01-08
   lastCommit: 2026-02-05
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-01-23
   lastPrerelease: 
 popularity:
-  star: 1273
+  star: 1274
   watcher: 4
   fork: 164
   release: 5
@@ -84,7 +84,7 @@ total:
   commit: 30
 ---
 path: /home/runner/.x-repo/github.com/philschmid/mcp-cli
-collectedAt: 2026-09-11T05:09:31Z
+collectedAt: 2026-09-11T19:53:38Z
 loc:
   TypeScript:
     code: 4194
