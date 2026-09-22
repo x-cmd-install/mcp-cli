@@ -36,7 +36,7 @@ Total: **4,552** lines of code across **30** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,276 · **Forks**: 164 · **Open issues**: 20 · **Contributors**: 2
+- **Stars**: 1,275 · **Forks**: 165 · **Open issues**: 20 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **4,552** lines of code across **30** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 1 | 0 | 2 | 0 |
-| 90d | 2026-06-23 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last180d | 2026-03-25 | 0 | 0 | 38 | 0 | 2 | 0 |
-| 360d | 2025-09-26 | 5 | 4 | 220 | 5 | 15 | 27 |
-| last720d | 2024-10-01 | 5 | 4 | 220 | 5 | 15 | 30 |
+| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 0 | 0 | 1 | 0 | 2 | 0 |
+| 90d | 2026-06-24 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last180d | 2026-03-26 | 0 | 0 | 36 | 0 | 2 | 0 |
+| 360d | 2025-09-27 | 5 | 4 | 220 | 5 | 15 | 0 |
+| last720d | 2024-10-02 | 5 | 4 | 220 | 5 | 15 | 30 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for mcp-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:44:25Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:24:20Z._
