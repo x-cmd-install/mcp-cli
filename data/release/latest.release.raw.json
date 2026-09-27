@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 256,
       "digest": "sha256:6b1c8709075d734b8c1355924c30c0ecf47c81af4c88635b022b479f6f6824cd",
-      "download_count": 5686,
+      "download_count": 5695,
       "created_at": "2026-01-23T13:56:43Z",
       "updated_at": "2026-01-23T13:56:44Z",
       "browser_download_url": "https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 101135752,
       "digest": "sha256:76772f290edaa856cbec967d12c33cb9bf49cff014f55a30d04245cf8970817c",
-      "download_count": 38685,
+      "download_count": 38705,
       "created_at": "2026-01-23T13:56:43Z",
       "updated_at": "2026-01-23T13:56:47Z",
       "browser_download_url": "https://github.com/philschmid/mcp-cli/releases/download/v0.3.0/mcp-cli-linux-x64"
