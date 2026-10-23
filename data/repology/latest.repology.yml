@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: mcp-cli-bin
+  binname: mcp-cli-bin
+  visiblename: mcp-cli-bin
+  version: 0.1.4
+  origversion: 0.1.4-1
+  status: unique
+  summary: Lightweight CLI for interacting with MCP (Model Context Protocol) servers
+  maintainers:
+    - dbirks@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: mcp-cli-git
+  binname: mcp-cli-git
+  visiblename: mcp-cli-git
+  version: 0.1.4.r0.g7429637
+  origversion: 0.1.4.r0.g7429637-1
+  status: rolling
+  summary: A lightweight CLI for interacting with MCP (Model Context Protocol) servers
+  maintainers:
+    - anjanaya@aur
+  licenses:
+    - MIT
