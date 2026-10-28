@@ -2,8 +2,8 @@
   srcname: mcp-cli-bin
   binname: mcp-cli-bin
   visiblename: mcp-cli-bin
-  version: 0.1.4
-  origversion: 0.1.4-1
+  version: 0.3.0
+  origversion: 0.3.0-1
   status: unique
   summary: Lightweight CLI for interacting with MCP (Model Context Protocol) servers
   maintainers:
